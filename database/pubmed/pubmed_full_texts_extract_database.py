@@ -53,7 +53,7 @@ def fetch_full_article(pmcid):
 
 seen_ids = set()
 for query in queries:
-    print(f"\n🔎 Searching for: {query}")
+    print(f"Searching for: {query}")
     pmc_ids = search_pmc(query)
     for pmcid in tqdm(pmc_ids):
         if pmcid in seen_ids:
