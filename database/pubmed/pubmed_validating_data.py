@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from Bio import Entrez
 from tqdm import tqdm
 
-Entrez.email = "julia.patsyukova@gmail.com"
+Entrez.email = "julia.patsyukova@gmail.com" # example
 
 df = pd.read_excel("/Users/julia_patsiukova/Downloads/output_table_FINAL.xlsx")
 df['PMID'] = df['id'].str.extract(r'PMID\s*(\d+)')
