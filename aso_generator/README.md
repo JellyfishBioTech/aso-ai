@@ -40,7 +40,6 @@ This folder provides a web-based interface for generating and evaluating **Antis
   - Final output formatting and visualization
 
 - `requirements.txt`
-  
   Lists all necessary dependencies to run the ASO Generator, including:
   - streamlit
   - requests
@@ -74,7 +73,7 @@ This folder provides a web-based interface for generating and evaluating **Antis
 ## Live Demo
 
 You can try the tool online via Hugging Face Spaces:  
-🔗 [https://huggingface.co/spaces/jpatsiukova/ASO-generator](https://huggingface.co/spaces/jpatsiukova/ASO-generator)
+[https://huggingface.co/spaces/jpatsiukova/ASO-generator](https://huggingface.co/spaces/jpatsiukova/ASO-generator)
 
 The dashboard was developed in **Python using Streamlit**, and deployed using Hugging Face’s hosting infrastructure. It integrates live querying of Ensembl for gene sequences and local alignment using Bowtie2.
 
