@@ -39,14 +39,15 @@ This folder provides a web-based interface for generating and evaluating **Antis
   - Bowtie2-based off-target alignment
   - Final output formatting and visualization
 
-- `requirements.txt`  
+- `requirements.py`
   Lists all necessary dependencies to run the ASO Generator, including:
-  streamlit
-  requests
-  pandas
-  matplotlib
-  seaborn
-  biopython
+  - streamlit
+  - requests
+  - pandas
+  - matplotlib
+  - seaborn
+  - biopython  
+
   ---
 
 ## How It Works
