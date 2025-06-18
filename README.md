@@ -63,7 +63,7 @@ The full dashboard code is available in the [`data/`](data) folder.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 aso-ai/
