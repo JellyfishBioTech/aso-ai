@@ -39,7 +39,7 @@ This folder provides a web-based interface for generating and evaluating **Antis
   - Bowtie2-based off-target alignment
   - Final output formatting and visualization
 
-- `requirements.py`
+- `requirements.txt`
   Lists all necessary dependencies to run the ASO Generator, including:
   - streamlit
   - requests
