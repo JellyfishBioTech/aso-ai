@@ -48,6 +48,7 @@ A web-based generator allows users to input either a gene name or Ensembl transc
 - Generates interactive plots, including GC content distribution, melting temperature histogram, and exon-level mapping of ASO positions
 
 The generator is built with Python and Streamlit and can be launched locally or deployed remotely.
+Related ASO design scripts and interface code are available in the [`aso_generator/`](aso_generator) folder.
 
 ---
 
@@ -58,8 +59,7 @@ An exploratory dashboard was developed to help visualize and filter the final AS
 - Target genes and modifications
 - Distribution by source (journal vs patent)
 
-Try it here:  
-🔗 [Live dashboard on Hugging Face](https://huggingface.co/spaces/jpatsiukova/ASO-dashboard)
+The full dashboard code is available in the [`data/`](data) folder.
 
 ---
 
