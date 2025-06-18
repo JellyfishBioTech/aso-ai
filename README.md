@@ -105,6 +105,6 @@ streamlit run aso_generator/app.py
 
 ---
 
-For feedback or collaboration, feel free to [open an issue](https://github.com/your-username/aso-ai/issues) or contact via GitHub.
+For feedback or collaboration, feel free to contact via GitHub.
 
 ---
