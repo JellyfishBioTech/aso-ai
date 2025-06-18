@@ -40,6 +40,7 @@ This folder provides a web-based interface for generating and evaluating **Antis
   - Final output formatting and visualization
 
 - `requirements.txt`
+
   Lists all necessary dependencies to run the ASO Generator, including:
   - streamlit
   - requests
